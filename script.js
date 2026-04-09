@@ -25,3 +25,18 @@ function alterarStatus() {
         document.getElementById('status').innerHTML = trocarStatus;
     }
 }
+
+function mudarCorHeader() {
+let cor = document.getElementById("corHeader").value;
+document.querySelector(".cabecalho").style.backgroundColor = cor;
+}
+function mudarCorNav() {
+    let cor = document.getElementById("corNav").value;
+    document.querySelector(".navegacao").style.backgroundColor = cor;
+    }
+    
+function mudarCorNav() {
+    let cor = document.getElementById("corNav").value;
+    document.querySelector(".navegacao").style.backgroundColor = cor;
+    }
+    

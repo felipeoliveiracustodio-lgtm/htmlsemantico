@@ -58,6 +58,29 @@
     margin-bottom: 10px;
 }
 
+.formulario {
+    margin-bottom: 10px;
+}
+
+
+.tituloCor {
+    margin-bottom:10px;
+
+}
+
+
+.linha-cor {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+
+.linha-cor p {
+    margin: 0;
+    width: 80px;
+}
 .rodape {
     background-color: #00ddff;
     height: 70px;
